@@ -12,6 +12,7 @@ Pequeno prompt do Gemini para ajudar a fazer brainstorm de ideias
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinsadw/brainstorm-helper/blob/main/brainstorm_helper.ipynb)
 
 # 1. Preparação
+
 - Crie uma Chave de API [(link)](https://aistudio.google.com/app/apikey);
 - Adicione a chave à lista de secrets do Google Colab com o nome `GOOGLE_API_KEY`;
 - Habilite o acesso da chave pelo notebook;
@@ -33,3 +34,13 @@ Após finalizar a primeira etapa, o modelo irá sugerir novas ideias para expand
 ## 2.3. Exploração de ideias
 
 Por fim, o modelo se disponibilizará a responder perguntas relacionadas as ideias propostas. Pode se pedir mais detalhes sobre algum dos itens, estimativas de custo para a execução das ideias, solicitar que o modelo crie um esboço de implementação das tarefas, entre outras ideias. Sua criatividade é o limite aqui.
+
+# 3. Exemplo
+
+- Criar um modelo para auxiliar em um brainstorming
+- Criar um site para organizar tarefas
+- Permitir adicionar membros e atribuir esse membros às tarefas
+- Permitir criar grupos de trabalho
+- Criar um modelo para organizar reuniões
+
+![Uso no Colab](/assets/colab.png)

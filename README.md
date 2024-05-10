@@ -1,10 +1,15 @@
-# brainstorm helper.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/dark_480.png">
+    <source media="(prefers-color-scheme: light)" srcset="/assets/light_480.png">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/light_480.png">
+  </picture>
+</p>
+
 Pequeno prompt do Gemini para ajudar a fazer brainstorm de ideias
 
-Link para o notebook:  
+**Link para o notebook:**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinsadw/brainstorm-helper/blob/main/brainstorm_helper.ipynb)
-
-# 1. Instruções de uso
 
 As interações com o modelo funcionam em três etapas: **Elaboração**, **Refinamento** e **Exploração** de ideias.  
 É possível digitar "SAIR" (sem aspas, em letras maiúsculas) a qualquer momento para encerrar a interação.

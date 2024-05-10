@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-Pequeno prompt do Gemini para ajudar a fazer brainstorm de ideias
+Gere ideias inovadoras, refine-as e receba sugestões para colocá-las em prática com esse Chatbot! Através de um processo intuitivo, você transforma ideias em realidade!
 
 **Link para o notebook no Google Colab:**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinsadw/brainstorm-helper/blob/main/brainstorm_helper.ipynb)
